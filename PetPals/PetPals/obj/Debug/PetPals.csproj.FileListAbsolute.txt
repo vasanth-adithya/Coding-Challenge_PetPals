@@ -1,0 +1,7 @@
+C:\hello\PetPals\PetPals\obj\Debug\PetPals.csproj.AssemblyReference.cache
+C:\hello\PetPals\PetPals\obj\Debug\PetPals.csproj.CoreCompileInputs.cache
+C:\hello\PetPals\PetPals\bin\Debug\PetPals.exe.config
+C:\hello\PetPals\PetPals\bin\Debug\PetPals.exe
+C:\hello\PetPals\PetPals\bin\Debug\PetPals.pdb
+C:\hello\PetPals\PetPals\obj\Debug\PetPals.exe
+C:\hello\PetPals\PetPals\obj\Debug\PetPals.pdb
